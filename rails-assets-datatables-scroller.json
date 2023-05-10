@@ -1,0 +1,46 @@
+{
+  "name": "rails-assets-datatables-scroller",
+  "downloads": null,
+  "version": "2.0.7",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://datatables.net/",
+  "gem_uri": null,
+  "homepage_uri": "https://datatables.net/",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://datatables.net/",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 1.7.0"
+    },
+    
+    
+    
+    {
+      "name": "rails-assets-datatables",
+      "requirements": ">= 1.10.0"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
